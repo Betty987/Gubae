@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+db.sqlite3
+.env
+
+# Node
+node_modules/
+dist/
+
+# OS / editor
+.DS_Store
+
+# Private study notes (interview prep, resume bullets)
+notes/
