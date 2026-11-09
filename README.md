@@ -1,4 +1,4 @@
-# Gubae (ጉባኤ)
+# Gubae 
 
 **Events, RSVPs and volunteer sign-ups for church and community groups.**
 
